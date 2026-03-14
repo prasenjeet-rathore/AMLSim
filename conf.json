@@ -1,7 +1,7 @@
 {
   "general": {
     "random_seed": 42,
-    "simulation_name": "sargasso_small",
+    "simulation_name": "aml-dev-1k",
     "total_steps": 720,
     "base_date": "2020-01-01"
   },
