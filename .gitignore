@@ -10,6 +10,7 @@ logs/
 
 # Package Files #
 *.jar
+!jars/mason.20.jar
 *.war
 *.ear
 *.zip
